@@ -11,4 +11,8 @@ A Library Management System for multiple users and admins to keep stuff organise
 * **User Privileges** :
 	* He can issue books from the bookshelf, provided it is available (Quantity).
 	* He can return the books he has taken. He can also view the books he has issued.
+## Design
 
+* **Homepage**
+![Homepage](frontpage.png
+)
