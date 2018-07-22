@@ -14,5 +14,10 @@ A Library Management System for multiple users and admins to keep stuff organise
 ## Design
 
 * **Homepage**
-![Homepage](frontpage.png
-)
+
+![Homepage](frontpage.png)
+
+* **Admin Page**
+
+![Admin](Admin.png)
+
